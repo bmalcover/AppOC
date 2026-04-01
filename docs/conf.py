@@ -8,7 +8,7 @@
 
 project = 'AppOC'
 copyright = '2026, Gabriel Moyà Alcover'
-author = 'Gabriel Moyà Alcover'
+author = 'To be defined'
 release = '1'
 
 # -- General configuration ---------------------------------------------------
@@ -34,12 +34,11 @@ exclude_patterns = [
 import os
 import sys
 sys.path.insert(0, os.path.abspath('..'))
-sys.path.insert(0, os.path.abspath('../notebooks'))
+sys.path.insert(0, os.path.abspath('notebooks'))
 
 # Configure nbsphinx to find notebooks
 nbsphinx_prolog = """
 .. raw:: html
-
     <style>
         .nbinput .prompt,
         .nboutput .prompt {
