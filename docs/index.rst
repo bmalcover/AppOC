@@ -22,10 +22,12 @@ AppOC documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Seccció 2: Xarxes
+   :caption: Seccció 2: Xarxes Neuronals
 
    notebooks/02_Xarxes/01_Introduccio
-
+   notebooks/02_Xarxes/02_MLP_Scikit
+   notebooks/02_Xarxes/03_MLP_Pytorch
+   notebooks/02_Xarxes/04_Projecte
 
 .. toctree::
    :maxdepth: 1
