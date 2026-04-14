@@ -34,6 +34,9 @@ AppOC documentation
    :caption: Secció 3: Series Temporals
 
    notebooks/03_Series/01_Introduccio
+   notebooks/03_Series/02_Xarxes_Recurrents
+   notebooks/03_Series/03_LSTM_GRU
+   notebooks/03_Series/04_Projecte
 
 .. toctree::
    :maxdepth: 1

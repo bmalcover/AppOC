@@ -8,7 +8,7 @@
 
 project = 'AppOC'
 copyright = '2026, Gabriel Moyà Alcover'
-author = 'To be defined'
+author = 'Isaac Lera; Miquel Miró; Biel Moyà; Aina Tur'
 release = '1'
 
 # -- General configuration ---------------------------------------------------
