@@ -11,3 +11,6 @@ La documentació es troba en el següent enllaç [https://appoc.readthedocs.io/c
    - Gabriel Moyà
 
 
+![MicroCredencials](https://github.com/bmalcover/AppOC/blob/main/docs/_static/LogoMicro.png)
+
+
