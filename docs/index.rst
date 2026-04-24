@@ -9,20 +9,20 @@ AppOC documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Introducció al curs
+   :caption: Introduction
 
    notebooks/00_Introduccio
 
 .. toctree::
    :maxdepth: 1
-   :caption: Secció 1: ML
+   :caption: Module 1: ML
 
    notebooks/01_ML/01_Introduccio
 
 
 .. toctree::
    :maxdepth: 1
-   :caption: Seccció 2: Xarxes Neuronals
+   :caption: Module 2: Neural Networks (MLP)
 
    notebooks/02_Xarxes/01_Introduccio
    notebooks/02_Xarxes/02_MLP_Scikit
@@ -31,7 +31,7 @@ AppOC documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Secció 3: Series Temporals
+   :caption: Module 3: Temporal Series
 
    notebooks/03_Series/01_Introduccio
    notebooks/03_Series/02_Xarxes_Recurrents
@@ -41,13 +41,13 @@ AppOC documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Secció 4: Imatge i Vídeo
+   :caption: Module 4: Image Analysis
 
    notebooks/04_Imatge/01_Introduccio
 
 .. toctree::
    :maxdepth: 1
-   :caption: Secció 5: Text
+   :caption: Module 5: Text
 
    notebooks/05_Text/01_Introduccio
 
