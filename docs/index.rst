@@ -15,9 +15,15 @@ AppOC documentation
 
 .. toctree::
    :maxdepth: 1
-   :caption: Module 1: ML
+   :caption: Module 1: Machine Learning (ML)
 
    notebooks/01_ML/01_Introduccio
+   notebooks/01_ML/02_Optimization
+   notebooks/01_ML/03_Trees
+   notebooks/01_ML/04_PCA
+
+
+
 
 
 .. toctree::
