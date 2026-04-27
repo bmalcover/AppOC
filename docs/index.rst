@@ -34,6 +34,8 @@ AppOC documentation
    notebooks/02_Xarxes/02_MLP_Scikit
    notebooks/02_Xarxes/03_MLP_Pytorch
    notebooks/02_Xarxes/04_Projecte
+   notebooks/02_Xarxes/05_NetCDF_xarray
+
 
 .. toctree::
    :maxdepth: 1
@@ -55,7 +57,12 @@ AppOC documentation
    :maxdepth: 1
    :caption: Module 5: Text
 
-   notebooks/05_Text/01_Introduccio
+   notebooks/05_Text/01_LLM_Fundamentals
+   notebooks/05_Text/02_Prompt_Engineering
+   notebooks/05_Text/03_Tokenization
+   notebooks/05_Text/04_Agents
+   notebooks/05_Text/05_Evaluation_Limitations_of_LLMs
+
 
 
 
