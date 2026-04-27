@@ -34,6 +34,8 @@ AppOC documentation
    notebooks/02_Xarxes/02_MLP_Scikit
    notebooks/02_Xarxes/03_MLP_Pytorch
    notebooks/02_Xarxes/04_Projecte
+   notebooks/02_Xarxes/05_NetCDF_xarray
+
 
 .. toctree::
    :maxdepth: 1
