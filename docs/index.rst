@@ -51,7 +51,8 @@ AppOC documentation
    :maxdepth: 1
    :caption: Module 4: Image Analysis
 
-   notebooks/04_Imatge/01_Introduccio
+   notebooks/04_Images/01_Introduccio
+   notebooks/04_Images/02_Image
 
 .. toctree::
    :maxdepth: 1
