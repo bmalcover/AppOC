@@ -53,6 +53,8 @@ AppOC documentation
 
    notebooks/04_Images/01_Introduccio
    notebooks/04_Images/02_Image
+   notebooks/04_Images/03_Detection_segmentation
+   notebooks/04_Images/04_Projecte
 
 .. toctree::
    :maxdepth: 1
